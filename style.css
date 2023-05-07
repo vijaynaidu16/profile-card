@@ -75,7 +75,7 @@
     background: #fff;
     color: #333;
     padding: 20px 40px;
-    transform: rotateY(180deg);
+    /* transform: rotateY(180deg); */
 
 }
 
@@ -165,7 +165,7 @@
 
 .back a img{
     width: 50%;
-
+    
 }
 
 .card:hover .card-inner{
